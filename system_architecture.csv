@@ -1,0 +1,6 @@
+name,type,function,specs
+Intel RealSense Camera,Hardware,RGB + Depth data capture,"640x480 @ 30FPS, 0.3-3m range"
+YOLOv8 Model,Software,Object detection and classification,"Real-time inference, configurable classes"
+Servo Controller,Hardware,Pan/tilt/gripper control,"Arduino-based, PWM control"
+ROV Platform,Hardware,Underwater vehicle base,"Waterproof housing, stable mounting"
+Vision System,Software,Main coordination and control,Multi-threaded Python application
