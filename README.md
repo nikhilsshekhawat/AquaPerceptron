@@ -126,6 +126,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
+Email: [nikhilshekhawat1999@gmail.com](mailto:nikhilshekhawat1999@gmail.com)
 Project Link: [https://github.com/nikhilsshekhawat/AquaPerceptron](https://github.com/nikhilsshekhawat/AquaPerceptron)
 
 ---
