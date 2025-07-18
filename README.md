@@ -126,7 +126,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Project Link: [https://github.com/your-username/rov-vision-system](https://github.com/your-username/rov-vision-system)
+Project Link: [https://github.com/nikhilsshekhawat/AquaPerceptron](https://github.com/nikhilsshekhawat/AquaPerceptron)
 
 ---
 
